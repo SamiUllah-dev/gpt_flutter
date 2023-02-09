@@ -2,7 +2,7 @@ import 'package:chat_gpt_sdk/chat_gpt_sdk.dart';
 
 class AIHandler {
   final _openAI = OpenAI.instance.build(
-    token: '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',
+    token: '<your openAI API key>',
     baseOption: HttpSetup(receiveTimeout: 20000),
   );
 
