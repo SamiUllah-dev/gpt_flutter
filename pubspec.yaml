@@ -36,7 +36,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   flutter_riverpod: ^2.1.3
-  chat_gpt_sdk: ^1.0.2+4
+  chat_gpt_sdk: ^2.0.2
   speech_to_text: ^6.1.1
 
 dev_dependencies:
