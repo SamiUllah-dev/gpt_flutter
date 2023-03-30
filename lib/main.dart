@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:gpt_flutter/providers/active_theme_provider.dart';
-import 'package:gpt_flutter/screens/chat_screen.dart';
+import 'providers/active_theme_provider.dart';
+import 'screens/chat_screen.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'constants/themes.dart';

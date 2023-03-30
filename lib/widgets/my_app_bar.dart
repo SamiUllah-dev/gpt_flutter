@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:gpt_flutter/providers/active_theme_provider.dart';
-import 'package:gpt_flutter/widgets/theme_switch.dart';
+import '../providers/active_theme_provider.dart';
+import 'theme_switch.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class MyAppBar extends StatelessWidget implements PreferredSizeWidget {

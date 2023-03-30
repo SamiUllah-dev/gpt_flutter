@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:gpt_flutter/providers/active_theme_provider.dart';
+import '../providers/active_theme_provider.dart';
 
 class ThemeSwitch extends ConsumerStatefulWidget {
   const ThemeSwitch({super.key});
